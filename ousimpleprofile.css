@@ -1,0 +1,152 @@
+.ou_simple_profile_css_main_window
+{
+	margin:0 auto; 
+	width:700px; 
+	min-height:100px; 
+	border:1px solid #071d07;
+	background:#ffffff;
+}
+
+table.ousimpleprofiletable1
+{
+	width:478px !important;
+	border-collapse: collapse !important;
+	margin-bottom: 0px !important;
+	border: none !important;
+	padding: 0px !important;
+}
+
+table.ousimpleprofiletable2
+{
+	width:348px !important;
+	border-collapse: collapse !important;
+	margin-bottom: 0px !important;
+	border: none !important;
+	padding: 0px !important;
+}
+
+table.ousimpleprofiletable2
+{
+	width:488px !important;
+	border-collapse: collapse !important;
+	margin-bottom: 0px !important;
+	border: none !important;
+	padding: 0px !important;
+}
+
+
+input.ousimpleprofileinput1
+{
+	width:258px !important;
+	font-size:14px !important;
+	border: none !important;
+	border-radius: 0px !important;
+	padding:5px 10px 4px !important;
+	color: #000000 !important;
+	font-weight: normal !important;
+}
+
+input.ousimpleprofileinput2
+{
+	width:173px !important;
+	font-size:14px !important;
+	border: none !important;
+	border-radius: 0px !important;
+	padding:5px 10px 4px !important;
+	color: #000000 !important;
+	font-weight: normal !important;
+}
+
+textarea.ousimpleprofilearea1
+{
+	width:258px !important;
+	height:90px !important;
+	font-size:14px !important;
+	border: none !important;
+	border-radius: 0px !important;
+	padding:5px 10px 4px !important;
+	color: #000000 !important;
+	font-weight: normal !important;
+	resize: none !important;
+	opacity: 1 !important;
+}
+
+select.ousimpleprofileselect1
+{
+	width:258px !important;
+	font-size:14px !important;
+	border: none !important;
+	border-radius: 0px !important;
+	color: #000000 !important;
+	line-height: 1.5 !important;
+	padding:5px 6px 4px !important;
+	font-weight: normal !important;
+	
+}
+
+select.ousimpleprofileselect2
+{
+	width:173px !important;
+	font-size:14px !important;
+	border: none !important;
+	border-radius: 0px !important;
+	color: #000000 !important;
+	line-height: 1.5 !important;
+	padding:5px 6px 4px !important;
+	font-weight: normal !important;
+	
+}
+
+textarea.ousimpleprofilearea1:focus,
+input.ousimpleprofileinput1:focus 
+{
+	border: none !important;
+	font-weight: normal !important;
+	font-size:14px !important;
+}
+
+.ousimpleprofilelink0 a:link,
+.ousimpleprofilelink0 a:visited,
+.ousimpleprofilelink0 a:active
+{
+	font-size: 18px !important; 
+	color: #FFB90F !important; 
+	outline: none !important; 
+	line-height:0 !important;
+}
+
+.ousimpleprofilelink0 a:hover
+{
+	font-size:18px !important; 
+	color:#CD950C !important; 
+	outline: none !important; 
+	line-height:0 !important;
+}
+
+.ousimpleprofilelink0 a:focus
+{
+	outline: 0 !important; 
+}
+
+.ousimpleprofilelink1 a:link,
+.ousimpleprofilelink1 a:visited,
+.ousimpleprofilelink1 a:active
+{
+	font-size: 14px !important; 
+	color: #36648B !important; 
+	outline: none !important; 
+	line-height:0 !important;
+}
+
+.ousimpleprofilelink1 a:hover
+{
+	font-size:14px !important; 
+	color:#00688B !important; 
+	outline: none !important; 
+	line-height:0 !important;
+}
+
+.ousimpleprofilelink1 a:focus
+{
+	outline: 0 !important; 
+}
